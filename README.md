@@ -404,10 +404,3 @@ DATABASES = {
 76. Если необходимо запустить проект в режиме дебага, меняем значение DEBUG_MODE=False на DEBUG_MODE=True в файле конфигурации uwsgi.
 
 77. Вот и весь деплой)
-
-
-
-	
-	
-lesson_deploy_django.txt
-Відображається "lesson_deploy_django.txt".
